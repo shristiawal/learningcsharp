@@ -1,0 +1,7 @@
+F:\learningcsharp\learningcsharp\obj\Debug\learningcsharp.csproj.AssemblyReference.cache
+F:\learningcsharp\learningcsharp\obj\Debug\learningcsharp.csproj.CoreCompileInputs.cache
+F:\learningcsharp\learningcsharp\bin\Debug\learningcsharp.exe.config
+F:\learningcsharp\learningcsharp\bin\Debug\learningcsharp.exe
+F:\learningcsharp\learningcsharp\bin\Debug\learningcsharp.pdb
+F:\learningcsharp\learningcsharp\obj\Debug\learningcsharp.exe
+F:\learningcsharp\learningcsharp\obj\Debug\learningcsharp.pdb
